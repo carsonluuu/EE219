@@ -13,8 +13,7 @@ EE219 Project 1 Classification Analysis on Textual Data
         d. sklearn v0.17
         e. nlkt v3.0
       Usage:
-         $ python <File Name>.py
-      
-         File Name: Data_Preprocess_Part.py    -> Problem (a) - (d) 
-         File Name: Learning_Part.py           -> Problem (e) - (i)
-         File Name: MultiClassifcation_Part.py -> Problem (h)
+         $ python <File Name>.py      
+          File Name: Data_Preprocess_Part.py    -> Problem (a) - (d) 
+          File Name: Learning_Part.py           -> Problem (e) - (i)
+          File Name: MultiClassifcation_Part.py -> Problem (h)
