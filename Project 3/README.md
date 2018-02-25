@@ -49,11 +49,11 @@ Usage
      
 		File Name: DataSetBasic.py 						-> Problem 1 - 6
 		File Name: KNN.py     							-> Problem 7 - 15
-		File Name: *********				    		-> Problem 16 - 29
-		File Name: Naive_Collaborative_Filtering.py    	-> Problem 30 -- 33  
-		File Name: plotting_ROC.py           			-> Problem 34 
+		File Name: *********				    			-> Problem 16 - 29
+		File Name: Naive_Collaborative_Filtering.py    				-> Problem 30 -- 33  
+		File Name: plotting_ROC.py           					-> Problem 34 
 		File Name: users.py 							-> Problem 35 -- 38
-		File Name: plotting_ratings.py 					-> Problem 39
+		File Name: plotting_ratings.py 						-> Problem 39
 Addtional Files
 ------------
 	Ratings_Pickle_Data		->     pickle data for ploting and comparision
