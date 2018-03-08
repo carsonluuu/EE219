@@ -25,10 +25,10 @@ Usage
 ------------
     $ python <File Name>.py    
 
-		File Name: Proj4_Load_data.py						-> Problem 1
-		File Name: Regression								-> Problem 2a
+		File Name: Proj4_Load_data.py					-> Problem 1
+		File Name: Regression						-> Problem 2a
 		File Name: Random Forest Tree.ipynb    				-> Problem 2b
 		File Name: project4_2c_NN.py             			-> Problem 2c
 		File Name: Regression		            			-> Problem 2d
-		File Name: project4_2e_knn.py    					-> Problem 2e  
+		File Name: project4_2e_knn.py    				-> Problem 2e  
 
