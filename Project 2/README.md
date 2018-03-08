@@ -1,9 +1,11 @@
 EE219 Project 2 Clustering Analysis on Textual Data
-
-  Team: 
+=====
+Team:
+----
     Jiahui Lu - 204945099
     Chenguang Yuan - 005030313
-  IMPLEMENTATION
+IMPLEMENTATION
+----
     Enviroment:
       Python 3.6
     Dependencies:
@@ -12,7 +14,8 @@ EE219 Project 2 Clustering Analysis on Textual Data
       c. matplotlib v1.5.1
       d. sklearn v0.17
       e. nlkt v3.0
-    Usage:
+Usage
+-----
      $ python <File Name>.py    
      
       File Name: Basic_KMeans 						          -> Problem 1 - 2
